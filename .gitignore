@@ -1,0 +1,11 @@
+# Fichiers objets
+*.o
+
+# Bibliothèque compilée
+lib/
+
+# Exécutable
+test_program
+
+# Fichiers temporaires
+*~
